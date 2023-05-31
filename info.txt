@@ -1,0 +1,27 @@
+https://www.000webhost.com/
+username: BirdSurveyByGroup4
+password: q8uE33RZ#FcpSqtLBYHD
+
+
+DataBase
+localhost:3306
+DataBase Name: id20821284_birdsurvey
+
+https://databases.000webhost.com/index.php
+username: id20821284_projectmklg4
+password: 4=Zr~zb*KL))2CYw
+
+ftp:
+files.000webhost.com
+username: birdsurveybygroup4
+password: q8uE33RZ#FcpSqtLBYHD
+
+
+adminS1212
+sf&@1D8j$
+
+admin1234
+k@9KN5@&d
+
+test123
+sf&@1D8j$
